@@ -38,10 +38,14 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# R project 
+# R project
 *.Rproj
 
 # Data
 data/*
 
 .DS_Store
+first-set-of-data/data/*
+second-set-of-data/data/*
+first-set-of-data/premium/*.txt
+second-set-of-data/GTA_example_codes/*
