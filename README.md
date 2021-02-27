@@ -4,4 +4,4 @@ The code contained in this folder can be used to reproduce the transcriptional m
 
 ## References
 
-- Cabassi, Richardson, and Kirk (2020). Kernel learning approaches for summarising and combining posterior similarity matrices. In preparation.
+- Cabassi, Richardson, and Kirk (2020). Kernel learning approaches for summarising and combining posterior similarity matrices. arXiv preprint, arXiv:2009.12852.
